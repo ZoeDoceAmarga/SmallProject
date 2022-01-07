@@ -1,1 +1,1 @@
-# SmallProject de tabuada
+#   Exercício de tabuada em Python
